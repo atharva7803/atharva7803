@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Here’s a small "About Me" paragraph for your GitHub profile:<br><br>👋 Hi! I'm a Computer Engineering student at Savitribai Phule Pune University, passionate about software development, data science, and AI-driven technologies. I love building scalable and efficient solutions, whether it's developing web applications, creating data structures, or diving into deep learning projects. My goal is to continuously learn and contribute to innovative projects that make an impact. Let's connect and collaborate!
+👋 Hi! I'm a Computer Engineering student at Savitribai Phule Pune University, passionate about software development, data science, and AI-driven technologies. I love building scalable and efficient solutions, whether it's developing web applications, creating data structures, or diving into deep learning projects. My goal is to continuously learn and contribute to innovative projects that make an impact. Let's connect and collaborate!
 
 
 ## 🌐 Socials:
